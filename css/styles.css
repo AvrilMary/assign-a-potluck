@@ -90,7 +90,11 @@ button {
 }
 
 button:hover {
-  filter: brightness(85%);
+  filter: brightness(65%);
+}
+
+button:focus {
+  border: 5px solid black;
 }
 
 button:active {
