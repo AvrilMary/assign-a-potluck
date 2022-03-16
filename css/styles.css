@@ -72,9 +72,10 @@ h1 {
   padding: 0.25em;
 }
 
-.fa-envelope {
-  color: #ccc;
+.fa-champagne-glasses {
+  color: rgb(126, 34, 34);
 }
+
 
 button {
   align-self: center;
