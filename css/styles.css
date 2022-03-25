@@ -13,13 +13,13 @@ body {
   margin: 0;
   font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
-  color: rgb(90, 72, 72);
+  color: #7B4B94;
   font-size: 16px;
   text-align: center;
   background-image: #fff;
   font-family: "Open Sans", sans-serif;
   margin-top: 3rem;
-  background-color: bisque;
+  background-color: #D6F7A3;
 }
 
 .attendees {
@@ -74,7 +74,7 @@ h1 {
 }
 
 .fa-glass-cheers {
-  color: rgb(126, 34, 34);
+  color: #7D82B8;
 }
 
 
@@ -82,13 +82,13 @@ button {
   align-self: center;
   margin: 2em 0;
   padding: 0.5em 1em;
-  color: rgb(185, 135, 135);
+  color: #D6F7A3;
   font-size: 1em;
   text-transform: uppercase;
   font-weight: bold;
   border: none;
   cursor: pointer;
-  background-color: rgb(72, 53, 156);
+  background-color: #7B4B94;
   border-radius: 15px;
 }
 
@@ -105,7 +105,7 @@ button:active {
 }
 
 input {
-  border: 1px solid #292929;
+  border: 3px solid #292929;
   border-radius: 15px;
 }
 
