@@ -13,12 +13,13 @@ body {
   margin: 0;
   font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
-  color: rgb(46, 42, 42);
+  color: rgb(90, 72, 72);
   font-size: 16px;
   text-align: center;
   background-image: #fff;
   font-family: "Open Sans", sans-serif;
   margin-top: 3rem;
+  background-color: bisque;
 }
 
 .attendees {
@@ -72,7 +73,7 @@ h1 {
   padding: 0.25em;
 }
 
-.fa-champagne-glasses {
+.fa-glass-cheers {
   color: rgb(126, 34, 34);
 }
 
@@ -80,14 +81,15 @@ h1 {
 button {
   align-self: center;
   margin: 2em 0;
-  padding: 0.5em 1.5em;
-  color: #fff;
+  padding: 0.5em 1em;
+  color: rgb(185, 135, 135);
   font-size: 1em;
   text-transform: uppercase;
   font-weight: bold;
   border: none;
   cursor: pointer;
-  background-color: tomato;
+  background-color: rgb(72, 53, 156);
+  border-radius: 15px;
 }
 
 button:hover {
@@ -104,6 +106,7 @@ button:active {
 
 input {
   border: 1px solid #292929;
+  border-radius: 15px;
 }
 
 input:focus {
